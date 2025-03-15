@@ -31,7 +31,7 @@ This project is for **educational and research purposes only**. Unauthorized use
 4. Inject and have fun :D
 
 ## ⌛ Future additions
-- Might delay delay system (will take like 30 seconds to add, if you really need it just add it yourself)
+- Might add a delay system (will take like 30 seconds to add, if you really need it just add it yourself)
 - Enhanced security
 - String obfuscation/protection
 - Support for more advanced anti-cheats
